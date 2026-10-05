@@ -29,9 +29,6 @@ Cada script possui um propósito específico e, sempre que possível, inclui com
 
 ## Scripts atuais
 
-### analisa_backup.rb
-Analisa logs de backup, calcula o volume total de dados gravados e identifica falhas de escrita causadas por falta de espaço em disco.
-
 ### analisa_ips_rede.py
 Identifica IPs ausentes em uma sequência de endereços, testa sua disponibilidade na rede e gera uma lista dos IPs livres para utilização.
 
